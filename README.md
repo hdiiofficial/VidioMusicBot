@@ -51,7 +51,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/hdiiofficial/VidioMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
@@ -63,14 +63,14 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install -U -r requirements.txt
-shikhar@MacBook~ $ cp sample.env .env
+$ git clone https://github.com/hdiiofficial/VidioMusicBot
+$ cd VidioMusicBot
+$ pip3 install -U -r requirements.txt
+$ cp sample.env .env
 ```
 > Edit .env with your values and then start bot with
 ```console
-shikhar@MacBook~ $ bash start
+$ bash start
 ```
 
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
@@ -82,11 +82,11 @@ shikhar@MacBook~ $ bash start
 - Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
 - Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
 
-## Contact & Support
+## Credits
 
 - [Telegram Channel](https://t.me/OfficialYukki)
 - [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Original Repository](https://t.me/NotReallyShikhar)
 
 
 ## License
